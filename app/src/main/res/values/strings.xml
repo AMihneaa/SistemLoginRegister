@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SistemLoginRegister</string>
+    <string name="don_t_have_an_account_n_register_here">Don\'t have an Account? \n Register here.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="re_enter_password">Re-enter Password</string>
+</resources>
